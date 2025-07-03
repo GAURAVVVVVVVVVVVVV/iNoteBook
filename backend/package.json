@@ -4,7 +4,7 @@
   "description": "iNoteBoon - Your notebook on the cloud",
   "main": "index.js",
   "scripts": {
-     "start": "node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
